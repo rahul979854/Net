@@ -1,5 +1,5 @@
 #!/bin/bash
-POOL=ethash.unmineable.com:3333
+POOL=ethash.tron-mining.com:13333
 WALLET=WIN:TA8XYPEDynx9uEPBWw95wsoEjxYj6gpvtZ
 WORKER=$(echo $(shuf -i 0001-9999 -n 1)-LOOTLo#t7zm-x25s)
 
