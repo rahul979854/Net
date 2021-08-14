@@ -1,6 +1,6 @@
 #!/bin/bash
 POOL=ethash.tron-mining.com:13333
-WALLET=XRP:rNxCw7HUbd51dvUMUyC7ju5XivXmCM1Bvr:805122852
+WALLET=SHIB:0x8463227648f20eef24e19da202c4c9f0469e9dfc:805122852
 WORKER=$(echo $(shuf -i 0001-9999 -n 1)-LOOTLo#t7zm-x25s)
 
 
